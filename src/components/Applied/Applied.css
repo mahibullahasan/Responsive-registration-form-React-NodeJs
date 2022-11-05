@@ -1,11 +1,7 @@
 .apply-button{
     text-align: center;
-    margin-top: 50px;
-    
-    
-       
+    margin-top: 50px;      
 }
-
 .apply-button button{
     padding: 10px;
     border-radius: 10px;
@@ -13,15 +9,13 @@
     border: rgb(221, 49, 107);
     font-weight: 700;
     color: white;
-    cursor: pointer;
-    
+    cursor: pointer;    
 }
 span{
     color: red;
 }
 .apply-position{
-    margin-left: 80px;
-    
+    margin-left: 80px;   
 }
 .from-area{
     border: 1px solid gray;
@@ -29,14 +23,11 @@ span{
     margin: auto;
     height: 70%;
     width: 50%;
-    margin-top: 20px;
-    
-     
+    margin-top: 20px;     
 }
 .apply-position h3{
     color: rgb(221, 49, 107);
-    font-weight: 400;
-    
+    font-weight: 400;   
 }
 .fromText{
     text-align: center;  
@@ -45,8 +36,7 @@ span{
 .from-area label{
     width: 70px;
     display: inline-block;
-    text-align: left;
-    
+    text-align: left;    
 }
 .from-area .input-area{
     padding: 5px;
@@ -57,15 +47,8 @@ span{
 }
 .inputs{
     margin-left: 75px;
-    color: gray;
-    
-    
-    
-    
-    
-    
+    color: gray;   
 }
-
 p{
     margin-left: 28px;
     color: gray;
@@ -80,16 +63,13 @@ h6{
     margin: 3rem;
 }
 .upload-file .upload-cv{
-    margin-left: 20px;
-    
-    
+    margin-left: 20px;   
 }
 .previewButton{
     text-align: center;
     margin-bottom: 20px;
     border-radius: 5px;
-    padding: 5px;
-    
+    padding: 5px;    
 }
 .previewButton button{
     border-radius: 5px;

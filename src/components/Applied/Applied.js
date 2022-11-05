@@ -67,25 +67,14 @@ const Applied = () => {
                             <button className='preview'>Preview</button>
                             <h6>All fields marked with an asteric(*) are mendatory</h6>
                         </div>
-                            
-                        
+                                                    
                         <div className='file-area'>
                             <iframe src="https://drive.google.com/file/d/1Omq_DrFg5RqBc1aZFJW8XNGw5wxvnvQR/preview" width="640" height="480" allow="autoplay"></iframe>
-                        </div>
-
-                        
+                        </div>   
                     </div>
                     <div>
-
-                    </div>
-                        
-
                 </div>
-                
-                
-            
-            
-
+            </div>
         </div>
 
         

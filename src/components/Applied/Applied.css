@@ -1,0 +1,119 @@
+.apply-button{
+    text-align: center;
+    margin-top: 50px;
+    
+    
+       
+}
+
+.apply-button button{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(221, 49, 107);
+    border: rgb(221, 49, 107);
+    font-weight: 700;
+    color: white;
+    cursor: pointer;
+    
+}
+span{
+    color: red;
+}
+.apply-position{
+    margin-left: 80px;
+    
+}
+.from-area{
+    border: 1px solid gray;
+    border-radius: 20px;
+    margin: auto;
+    height: 70%;
+    width: 50%;
+    margin-top: 20px;
+    
+     
+}
+.apply-position h3{
+    color: rgb(221, 49, 107);
+    font-weight: 400;
+    
+}
+.fromText{
+    text-align: center;  
+    color: gray;  
+}
+.from-area label{
+    width: 70px;
+    display: inline-block;
+    text-align: left;
+    
+}
+.from-area .input-area{
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 20px;
+    width: 60%;
+    border: 1px solid gray;    
+}
+.inputs{
+    margin-left: 75px;
+    color: gray;
+    
+    
+    
+    
+    
+    
+}
+
+p{
+    margin-left: 28px;
+    color: gray;
+}
+h6{
+    margin-left: 28px;
+    font-weight: 200;
+}
+.container .title{
+    text-align: center;
+    text-transform: capitalize;
+    margin: 3rem;
+}
+.upload-file .upload-cv{
+    margin-left: 20px;
+    
+    
+}
+.previewButton{
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    padding: 5px;
+    
+}
+.previewButton button{
+    border-radius: 5px;
+    padding: 8px 40px;
+    background-color: rgb(221, 49, 107);
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+.previewButton p{
+    font-weight: 100;
+}
+iframe{
+    background-color: rgb(255, 94, 0);
+    position: relative;
+    height: 800px;
+    width: 100%;
+    cursor: pointer;
+}
+.file-area{
+    background-color: black;
+    text-align: center;
+}
+
+
+
+
